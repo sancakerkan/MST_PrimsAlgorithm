@@ -39,6 +39,8 @@ The project consists of three main Java classes and one text file:
 2. **Run the main program**:
    ```sh
    javac HW3_Q1_solution.java FileRead.java ValueFinder.java
+### Important : Make sure text file is readable
+
 
 ## License
 
